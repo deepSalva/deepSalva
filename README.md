@@ -4,7 +4,7 @@ Welcome to my coding world!!
 
 I am a Data Engineer focused on building scalable, high-performance infrastructure for delivering clear business insights.
 
-I mostly code in **Python** and **Java** and I am eager to lear **Scala**. The frameworks and environments you can find in my space are: Apache Flink, Apache Spark, Apache Airflow, SQL, Redshift, Apache Cassandra, Apache Kafka and Apache Haddop.
+I mostly code in **Python** and **Java** and I am eager to learn **Scala**. The frameworks and environments you can find in my space are: Apache Flink, Apache Spark, Apache Airflow, SQL, Redshift, Apache Cassandra, Apache Kafka and Apache Hadoop.
 
 - 🔭 I’m currently working on a Application to store and query stock market data from a personal portfolio
 - 🌱 I’m currently learning **Scala** for functional programming and Spark scala pipelines
