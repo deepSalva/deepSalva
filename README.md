@@ -1,16 +1,29 @@
 ## Hi there 👋 :sunny::surfer:
 
-Welcome to my coding world!!
+Welcome to my coding space!  
 
-I am a Software Engineer focused on building scalable, high-performance infrastructure for delivering clear business insights.
+I'm a **Software Engineer** with a strong expertise in **cloud-native backend development and distributed systems**. I love designing and building robust systems that scale efficiently and follow best software engineering practices.  
 
-I mostly code in **Python** and **Java** and I am into learning **Scala**. The frameworks and environments you can find in my space are: Apache Flink, Apache Spark, Apache Airflow, SQL, Redshift, Apache Cassandra, Apache Kafka and Apache Hadoop.
+### 🚧 What I do:
+- **Backend Development** — primarily working with **Java**, and also fluent in **Python** for various tasks.  
+- **Cloud & Distributed Systems** — passionate about building resilient, scalable services in cloud-native environments.  
+- **Performance & Optimization** — always curious about how to make things faster, better, and more reliable.  
+- **Automation & Scripting** — a fan of writing **Bash scripts** to simplify workflows.  
 
-- 🔭 I’m currently working on a application to store and query stock market data from a personal portfolio
-- 🌱 I’m currently learning **Scala** for functional programming and Spark Scala pipelines
-- 💬 Ask me about things related to database management systems, streaming pipelines, pattern design, programming languages comparative, science fiction and ancient Rome history 
-- 👯 I’m looking for new jobs opportunities 
-- 😄 Fun fact: white-faced capuchin monkeys greet each other by sticking their fingers up each others’ noses.
+### 🧠 Currently learning:
+- Diving into **Go** to expand my toolset for cloud-native and distributed systems engineering.  
+- Experimenting with **nano microservice architecture** as a personal project — starting with a system to generate random numbers (because, why not?).  
+
+### 🤝 Open to:
+- **Collaborating on interesting backend, cloud, or open-source projects.**  
+- Chatting about **Software Engineering best practices, distributed systems design, and performance tuning**.  
+
+### ⚙️ Tech & Interests:
+- **Languages**: Java, Python, Bash (and learning Go!)  
+- **Interests**: Software Architecture, Cloud Native, Microservices, Distributed Systems, Performance Engineering.  
+- **Hobbies**: Ancient Roman history buff, **Calisthenics** practitioner, and family time enthusiast.  
+
+Feel free to reach out if you want to collaborate or chat about engineering, history, or workouts!  
 
 <!--
 **deepSalva/deepSalva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
