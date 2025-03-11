@@ -2,7 +2,7 @@
 
 Welcome to my coding space!  
 
-I'm a **Software Engineer** with a strong expertise in **cloud-native backend development and distributed systems**. I love designing and building robust systems that scale efficiently and follow best software engineering practices.  
+I'm a dedicated **Software Engineer** with a strong expertise in **cloud-native backend development and distributed systems**. I love designing and building robust systems that scale efficiently and follow best software engineering practices.  
 
 ### 🚧 What I do:
 - **Backend Development** — primarily working with **Java**, and also fluent in **Python** for various tasks.  
