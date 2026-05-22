@@ -1,41 +1,21 @@
 ## Hi there 👋 :sunny::surfer:
-
-Welcome to my coding space!  
-
-I'm a dedicated **Software Engineer** with a strong expertise in **cloud-native backend development and distributed systems**. I love designing and building robust systems that scale efficiently and follow best software engineering practices.  
-
+Welcome to my engineering corner — where backend systems meet cloud infrastructure.
+I'm a **Senior Software Engineer** focused on **cloud-native backend development, distributed systems, and platform engineering**. I build things that need to be reliable, observable, and live up to production expectations.
 ### 🚧 What I do:
-- **Backend Development** — primarily working with **Java**, and also fluent in **Python** for various tasks.  
-- **Cloud & Distributed Systems** — passionate about building resilient, scalable services in cloud-native environments.  
-- **Performance & Optimization** — always curious about how to make things faster, better, and more reliable.  
-- **Automation & Scripting** — a fan of writing **Bash scripts** to simplify workflows.  
-
-### 🧠 Currently learning:
-- Diving into **Go** to expand my toolset for cloud-native and distributed systems engineering.  
-- Experimenting with **nano microservice architecture** as a personal project — starting with a system to generate random numbers (because, why not?).  
-
-### 🤝 Open to:
-- **Collaborating on interesting backend, cloud, or open-source projects.**  
-- Chatting about **Software Engineering best practices, distributed systems design, and performance tuning**.  
-
+- **Backend Development** — Java as my main tool, Python for data-adjacent and AI work.
+- **Platform & Infrastructure** — AWS, Terraform, CI/CD, owning the path from commit to production.
+- **Distributed Systems** — event-driven architectures, Kafka/Flink, systems that keep their promises at scale.
+- **AI Integration** — exploring how LLMs and agentic workflows fit into production backends.
+### 🧠 Currently exploring:
+- **Go** — rounding out the compiled-languages corner of the toolbox.
+- **AI Agents & LLM Orchestration** — LangGraph, RAG patterns, and the overlap between event processing and agent workflows.
+### 📬 Find me elsewhere:
+- [LinkedIn Newsletter](https://www.linkedin.com/newsletters/between-2-bugs-7045529059564363776/) — backend engineering, AI, and the occasional detour into Roman history.
 ### ⚙️ Tech & Interests:
-- **Languages**: Java, Python, Bash (and learning Go!)  
-- **Interests**: Software Architecture, Cloud Native, Microservices, Distributed Systems, Performance Engineering.  
-- **Hobbies**: Ancient Roman history buff, **Calisthenics** practitioner, and family time enthusiast.  
-
-Feel free to reach out if you want to collaborate or chat about engineering, history, or workouts!  
-
+- **Languages**: Java, Python, Go (learning)
+- **Platform**: AWS, Terraform, K8s (learning), CI/CD
+- **Domains**: Cloud-Native, Platform Engineering, Distributed Systems, Event-Driven Architecture
+- **Elsewhere**: Ancient Rome, Calisthenics, family time
 <!--
-**deepSalva/deepSalva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**deepSalva/deepSalva** is a ✨ _special_ ✨ repository because its README appears on your GitHub profile.
 -->
