@@ -10,10 +10,10 @@ I'm a **Senior Software Engineer** focused on **cloud-native backend development
 - **Go** — rounding out the compiled-languages corner of the toolbox.
 - **AI Agents & LLM Orchestration** — LangGraph, RAG patterns, and the overlap between event processing and agent workflows.
 ### 📬 Find me elsewhere:
-- [LinkedIn Newsletter](https://www.linkedin.com/newsletters/between-2-bugs-7045529059564363776/) — backend engineering, AI, and the occasional detour into Roman history.
+- [LinkedIn Newsletter](https://www.linkedin.com/newsletters/between-2-bugs-7045529059564363776/) — A fresh take on software engineering—insights, best practices, and industry trends to help in tech thriving.
 ### ⚙️ Tech & Interests:
-- **Languages**: Java, Python, Go (learning)
-- **Platform**: AWS, Terraform, K8s (learning), CI/CD
+- **Languages**: Java, Python, Go 
+- **Platform**: AWS, Terraform, K8s, CI/CD
 - **Domains**: Cloud-Native, Platform Engineering, Distributed Systems, Event-Driven Architecture
 - **Elsewhere**: Ancient Rome, Calisthenics, family time
 <!--
